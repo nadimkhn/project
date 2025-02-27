@@ -1,0 +1,12 @@
+name: project-env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - ipykernel
+  - scikit-learn
+  - python>=3.10
+  - pandas
+  - matplotlib.pyplot
+prefix: /opt/miniconda3/envs/dstoolbox
