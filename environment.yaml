@@ -8,5 +8,5 @@ dependencies:
   - scikit-learn
   - python>=3.10
   - pandas
-  - matplotlib.pyplot
+  - matplotlib
 prefix: /opt/miniconda3/envs/dstoolbox
